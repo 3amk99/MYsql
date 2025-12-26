@@ -1,0 +1,20 @@
+1 - What is entity ?
+=> is the object or thing that i want to stor the information about .
+
+
+
+2 - what is a attributes ?
+=> the attributes is the details or the description of the entity .
+
+
+
+3 - what is the relationships between entities (1-1, 1-N, NN) ?
+=> that is mean the relation of relating between two entity like 
+(1-N) , it is mean the entity A      can relate to many of the entity B . and all the entity B are related to entity A   . 
+(1-1)  it is mean the entity A  can related to  one entity B and . the entity B can relate to one entity A.
+(NN)  it is mean many of the entity A  can related to many of the entity B .
+
+
+
+4 - what is Cardinalities and constraints ?
+=> it mean how many cases can be happening between  entities .
